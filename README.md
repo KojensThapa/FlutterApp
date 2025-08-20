@@ -1,7 +1,8 @@
 # flutter_application_1
 
 A new Flutter project.
-
+## Screenshot of Output
+![image alt](https://github.com/KojensThapa/FlutterApp/blob/main/loginPage.jpg?raw=true)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
