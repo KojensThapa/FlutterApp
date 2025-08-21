@@ -24,6 +24,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/login': (context) => const LoginScreen(),
         '/cards': (context) => const CardListScreen(),
+        '/card-details': (context) => const CardDetailScreen(name: ''),
         '/settings': (context) => const SettingsScreen(),
       },
       // Optional: if you want to handle unknown routes
