@@ -3,12 +3,11 @@
 A new Flutter project.
 ## Screenshot of Output
 <img src="loginPage.png" alt="Login Page" width="300"/>
+<img src="visitingCard.png" alt="Visiting Card" width="300"/>
+<img src="cardList_Detail.png" alt="Card List" width="300"/>
+<img src="setting_with_toggle.png" alt="Setting with Toggle" width="300"/>
+<img src="signout.png" alt="Signout Page" width="300"/>
 
-![image alt](https://github.com/KojensThapa/FlutterApp/blob/main/loginPage.png?raw=true)
-![image alt](https://github.com/KojensThapa/FlutterApp/blob/main/cart_list.jpg?raw=true)
-![image alt](https://github.com/KojensThapa/FlutterApp/blob/main/cardDetails.jpg?raw=true)
-![image alt](https://github.com/KojensThapa/FlutterApp/blob/main/toggleSwitch.jpg?raw=true)
-![image alt](C:\Users\Acer\Desktop\loginPage.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
