@@ -2,10 +2,10 @@
 
 A new Flutter project.
 ## Screenshot of Output
-<img src="loginPage.png" alt="Login Page" width="300"/> 
+<spam><img src="loginPage.png" alt="Login Page" width="300"/> 
 <img src="visitingCard.png" alt="Visiting Card" width="300"/>
 <img src="cardList_Detail.png" alt="Card List" width="300"/> <img src="setting_with_toggle.png" alt="Setting with Toggle" width="300"/>
-<img src="signout.png" alt="Signout Page" width="300"/>
+<img src="signout.png" alt="Signout Page" width="300"/></spam>
 
 ## Getting Started
 
