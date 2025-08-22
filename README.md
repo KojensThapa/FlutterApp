@@ -2,6 +2,8 @@
 
 A new Flutter project.
 ## Screenshot of Output
+<img src="loginPage.png" alt="Login Page" width="300"/>
+
 ![image alt](https://github.com/KojensThapa/FlutterApp/blob/main/loginPage.png?raw=true)
 ![image alt](https://github.com/KojensThapa/FlutterApp/blob/main/cart_list.jpg?raw=true)
 ![image alt](https://github.com/KojensThapa/FlutterApp/blob/main/cardDetails.jpg?raw=true)
